@@ -56,7 +56,7 @@ body {
     width: 100%;
     height: 72vh;
     align-items: center;
-    gap: 35px;
+    gap: 30px;
 }
 
 .section-1-ch {
@@ -118,7 +118,7 @@ body {
     grid-template-columns: auto auto auto;
     grid-template-rows: auto auto;
     justify-content: center;
-    gap: 20px;
+    gap: 30px;
 }
 
 .row-items {
